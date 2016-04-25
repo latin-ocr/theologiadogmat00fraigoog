@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologiadogmat00fraigoog_0002.png"; bbox 0 0 2588 4178; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 43 195 236 256">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 43 195 236 256">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 195 236 256; baseline 0.041 -8"><span class='ocrx_word' id='word_1_1' title='bbox 43 195 236 256; x_wconf 47' lang='lat' dir='ltr'>*nunfv</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 36 307 240 394">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 36 307 240 394">
+     <span class='ocr_line' id='line_1_2' title="bbox 36 307 240 394; baseline -0.029 0"><span class='ocrx_word' id='word_1_2' title='bbox 36 307 240 394; x_wconf 63' lang='lat' dir='ltr'>uuam</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 35 435 251 566">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 35 435 251 566">
+     <span class='ocr_line' id='line_1_3' title="bbox 35 435 251 489; baseline 0.014 -7"><span class='ocrx_word' id='word_1_3' title='bbox 35 435 196 489; x_wconf 72' lang='lat' dir='ltr'><strong>umvusm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 213 439 251 486; x_wconf 69' lang='grc' dir='ltr'>οι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 59 513 230 566; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 59 513 230 566; x_wconf 55' lang='lat' dir='ltr'>enimn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1298 4178">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1298 4178">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1298 4178; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1298 4178; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
